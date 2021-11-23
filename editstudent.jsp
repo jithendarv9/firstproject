@@ -8,7 +8,7 @@
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	
+	<title>editstudent</title>
 	<link href="<c:url value='/static/css/custom.css' />" rel="stylesheet"></link>
 	<link href="<c:url value='/static/css/main.css' />" rel="stylesheet"></link>
 </head>
